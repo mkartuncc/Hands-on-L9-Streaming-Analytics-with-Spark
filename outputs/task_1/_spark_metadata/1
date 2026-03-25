@@ -1,0 +1,6 @@
+v1
+{"path":"file:///c:/Users/Medha%20K/Hands-on-L9-Streaming-Analytics-with-Spark/outputs/task_1/part-00000-35dbb4d6-96bc-49ab-9d67-e7844cd647b6-c000.csv","size":127,"isDir":false,"modificationTime":1774405400698,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///c:/Users/Medha%20K/Hands-on-L9-Streaming-Analytics-with-Spark/outputs/task_1/part-00001-e2daa728-30f8-4c23-9f1f-ddc07d66fbff-c000.csv","size":127,"isDir":false,"modificationTime":1774405400706,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///c:/Users/Medha%20K/Hands-on-L9-Streaming-Analytics-with-Spark/outputs/task_1/part-00002-51bb9f5a-9d3d-4bb9-ab1c-f17ae3281db5-c000.csv","size":125,"isDir":false,"modificationTime":1774405400709,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///c:/Users/Medha%20K/Hands-on-L9-Streaming-Analytics-with-Spark/outputs/task_1/part-00003-7a77b110-bf6a-46c8-aaf5-02ef82bb6af8-c000.csv","size":125,"isDir":false,"modificationTime":1774405400709,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///c:/Users/Medha%20K/Hands-on-L9-Streaming-Analytics-with-Spark/outputs/task_1/part-00004-e3bf2da8-28ee-4dc6-bf53-ed3b1e5c18b2-c000.csv","size":126,"isDir":false,"modificationTime":1774405400715,"blockReplication":1,"blockSize":33554432,"action":"add"}
